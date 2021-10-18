@@ -1,0 +1,22 @@
+{
+  "name": "lab2_zad",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/p-t-k1/lab2_zad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/p-t-k1/lab2_zad/issues"
+  },
+  "homepage": "https://github.com/p-t-k1/lab2_zad#readme",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
